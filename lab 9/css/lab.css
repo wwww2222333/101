@@ -1,0 +1,29 @@
+h1{
+  font-size: 50px;
+  color: #FF8000;
+}
+h2{
+  font-size: 50px;
+  color: #FF8000;
+}
+h3{
+  font-size: 30px;
+  color: #FFFF00;
+}
+
+p{
+  color: #00CED1;
+  font-size: 20px;
+  padding-left:200px;
+  padding-right: 200px;
+
+}
+
+div{
+  text-align: center;
+}
+
+#output{
+  color:#FFFF00;
+  font-size: 30px;
+}
